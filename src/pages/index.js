@@ -25,6 +25,7 @@ const IndexPage = ({ data }) => (
         </div>
       ))}
     </Masonry>
+    <p>easter egg</p>
   </Layout>
 )
 
