@@ -103,6 +103,7 @@ const TemplateWrapper = ({ children }) => {
             </div>
             {children}
           </div>
+          <p>easter egg</p>
         </div>
       )}
     />
